@@ -1,4 +1,5 @@
 Calculadora Web - Projeto de Faculdade
+
 📋 Objetivo
 Este projeto é uma calculadora web desenvolvida como parte de um trabalho acadêmico. O objetivo principal foi criar uma aplicação funcional que permita realizar operações matemáticas básicas através de uma interface amigável e responsiva.
 
