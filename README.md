@@ -14,6 +14,7 @@ Gradient CSS: Para o efeito visual de fundo
 
 Flexbox/Grid: Para posicionamento dos elementos
 
+
 🧮 Funcionalidades
 Operações básicas: adição, subtração, multiplicação e divisão
 
@@ -25,6 +26,7 @@ Suporte a números decimais
 
 Design responsivo que se adapta a diferentes tamanhos de tela
 
+
 📁 Estrutura do Projeto
 O projeto consiste em um único arquivo HTML que contém:
 
@@ -33,6 +35,7 @@ Estrutura semântica HTML
 Estilos CSS incorporados
 
 Script JavaScript para as funcionalidades
+
 
 🎯 O que Aprendi
 Com este projeto, pude desenvolver e consolidar vários conhecimentos:
@@ -43,6 +46,7 @@ Estruturação semântica de páginas web
 Criação de tabelas para organizar botões
 
 Uso de data attributes para funcionalidades
+
 
 CSS
 Estilização avançada com gradientes
@@ -55,6 +59,7 @@ Efeitos de hover para melhor experiência do usuário
 
 Estilização de tabelas e botões
 
+
 JavaScript
 Manipulação do DOM para atualizar o display
 
@@ -64,6 +69,7 @@ Uso do método eval() para cálculos (com consciência de suas limitações de s
 
 Manipulação de strings com substring()
 
+
 Design e UX
 Criação de interfaces intuitivas
 
@@ -71,12 +77,14 @@ Importância do feedback visual para o usuário
 
 Design com contraste adequado para melhor legibilidade
 
+
 🔧 Como Executar
 Faça o download ou clone do arquivo HTML
 
 Abra o arquivo em qualquer navegador web moderno
 
 Use os botões para realizar cálculos
+
 
 🚀 Possíveis Melhorias
 Implementação de operações matemáticas mais complexas
